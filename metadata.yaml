@@ -1,0 +1,39 @@
+_repo: Mark-Manning-s-Mission-The-Story-of-a-Shoe-Factory-Boy_55000
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Preston, Charles F.
+    - Starr, Julian
+    - Alger, Horatio
+    - Jr., Horatio Alger
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2017-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mark Manning''s Mission
+
+  The Story of a Shoe Factory Boy'
+url: http://www.gutenberg.org/ebooks/55000
